@@ -1,0 +1,23 @@
+{
+  "name": "restapinode",
+  "version": "1.0.0",
+  "description": "Rest Api Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adareloise/node-rest-api.git"
+  },
+  "author": "adareloise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adareloise/node-rest-api/issues"
+  },
+  "homepage": "https://github.com/adareloise/node-rest-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
