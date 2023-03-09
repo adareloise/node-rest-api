@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Rest Api Node",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "nodemon"
   },
